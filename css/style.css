@@ -15,4 +15,6 @@ body {
 
 #top {
     background: #dbcd87;
+    height: 15.4em;
+    min-height: 250px;
 }
