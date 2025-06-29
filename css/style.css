@@ -18,3 +18,7 @@ body {
     height: 15.4em;
     min-height: 250px;
 }
+
+#area-logo {
+    width: 100%;
+}
