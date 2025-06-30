@@ -123,11 +123,15 @@ ul#nav a:hover {
 #area-principal {
     float: left;
     width: 50%;
+    background: url(../imgs/bg-area-principal.png) top left repeat-x;
+    padding: 15px 0;
 }
 
 #area-lateral {
     float: right;
     width: 50%;
+    background: url(../imgs/bg-area-lateral.png) top left repeat-x;
+    padding: 15px 0;
 }
 
 .content {
