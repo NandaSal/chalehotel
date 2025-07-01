@@ -141,6 +141,8 @@ ul#nav a:hover {
 
 #rodape {
     clear: both;
+    padding: 16px;
+    background: #fff url(../imgs/bg-rodape.png) repeat-x top;
 }
 
 /* Formatações de textos */
