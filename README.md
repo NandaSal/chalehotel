@@ -9,3 +9,7 @@ Estudo de caso e treinamento conceitos de HTML e CSS.
 # Tecnologias
 
 Apenas HTML e CSS, sem frameworks.
+
+# Live version
+
+Acesse https://chalehotel.vercel.app/ para visualizar o projeto no ar.
