@@ -184,4 +184,5 @@ p {
 
 #benefits li:hover {
     background-color: #f6f3d6;
+    cursor: pointer;
 }
