@@ -186,3 +186,9 @@ p {
     background-color: #f6f3d6;
     cursor: pointer;
 }
+
+/* gastronomia */
+.gastronomia-img {
+    border: 3px solid #615b2d;
+    margin: 15px 60px;
+}
